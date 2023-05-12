@@ -1,5 +1,5 @@
 import builders.StudentsBuilder;
-import entities.Studant;
+import entities.Student;
 
 public class Main {
 
